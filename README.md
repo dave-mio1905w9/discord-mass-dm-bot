@@ -6,3 +6,5 @@ I run this on a small VPS to watch a handful of Discord announcement channels an
 
 pip install -r requirements.txt
 
+
+<!-- last-checked: 2026-10-04 -->
